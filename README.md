@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://github.com/SahariorRidoy/SahariorRidoy/blob/main/Pro-LInkedIn-Github%20Banner%20177and%20620.png"  />
+  <img  src="https://github.com/SahariorRidoy/SahariorRidoy/blob/main/Pro%20Github-LinkedIn%20Banner.png"  />
 </div>
 
 ###

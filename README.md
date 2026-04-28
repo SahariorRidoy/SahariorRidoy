@@ -22,15 +22,6 @@
 
 ###
 
-<h2 align="center">Current Activities</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning NextJS<br>🌍 Currently Building a Realtime Chatting Apllication<br>🎯 Goals: Exploring JWT, SSLCMMERZ And Stripe Payment Gateway</p>
-
-###
-
-
 <h2 align="center">I Code With </h2>
 
 ###
